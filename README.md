@@ -2,4 +2,4 @@
 testing repository
 
 
-this is firat time trial to check .
+this is first time trial to check .
